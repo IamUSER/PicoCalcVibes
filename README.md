@@ -1,5 +1,6 @@
-![Alt text](pcvives.png "PicoCalc Vibes Banner")
-
+<p align="center">
+  <img src="https://github.com/IamUSER/PicoCalcVibes/blob/main/pcvibes.png?raw=true">
+<br>
 # PicoCalcVibes 🎯
 
 > **Vibe coded PicoCalc apps that are free to use and remix**
