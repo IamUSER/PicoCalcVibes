@@ -28,10 +28,42 @@ A collection of creative, useful, and fun applications for the PicoCalc running 
 
 ## 📱 Quick Start
 
-1. **Download** any `.bas` file from this repository
-2. **Transfer** to your PicoCalc
-3. **Run** using PicoMite BASIC
-4. **Enjoy** and feel free to modify!
+### Step 1: Download the App
+1. **Browse** the repository and find a `.bas` file you want to try
+2. **Click** on the file to view its contents
+3. **Click** the "Raw" button to view the plain text version
+4. **Right-click** and "Save As" to download the file to your computer
+   - Or copy the raw text and paste it into a new `.bas` file
+
+### Step 2: Transfer to SD Card
+1. **Remove** the micro SD card from your PicoCalc
+2. **Insert** the SD card into your computer (using a card reader/adapter)
+3. **Copy** the downloaded `.bas` file to the root directory of the SD card
+   - You can also organize files in folders if preferred
+4. **Safely eject** the SD card from your computer
+5. **Insert** the SD card back into your PicoCalc
+
+### Step 3: Load and Run in PicoMite
+1. **Power on** your PicoCalc
+2. **Wait** for the PicoMite BASIC prompt (`>`) to appear
+3. **Type** `FILES` and press Enter to see available files
+4. **Load** your app by typing: `LOAD "filename.bas"`
+   - Replace `filename.bas` with the actual name of your downloaded file
+   - Example: `LOAD "256.bas"`
+5. **Run** the app by typing: `RUN`
+6. **Enjoy** your app! Press ESC to exit most apps
+
+### Step 4: Modify and Experiment
+- **Edit** code by typing `EDIT` after loading a program
+- **Save** changes with `SAVE "filename.bas"`
+- **List** the program code with `LIST`
+- **Create** new programs from scratch using `NEW`
+
+### Pro Tips 💡
+- **Organize**: Create folders on your SD card like `/games/`, `/tools/`, etc.
+- **Backup**: Keep copies of your modified programs
+- **Autorun**: Rename a file to `autorun.bas` to run automatically on startup
+- **Quick Load**: Use `LOAD "*"` to load the most recently saved program
 
 ## 🎨 App Categories
 
