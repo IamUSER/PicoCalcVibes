@@ -1,3 +1,5 @@
+![Alt text](pcvives.png "PicoCalc Vibes Banner")
+
 # PicoCalcVibes 🎯
 
 > **Vibe coded PicoCalc apps that are free to use and remix**
