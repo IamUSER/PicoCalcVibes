@@ -1,7 +1,8 @@
+# PicoCalcVibes 🎯
+
 <p align="center">
   <img src="https://github.com/IamUSER/PicoCalcVibes/blob/main/PCVibes.png?raw=true">
 <br>
-# PicoCalcVibes 🎯
 
 > **Vibe coded PicoCalc apps that are free to use and remix**
 
