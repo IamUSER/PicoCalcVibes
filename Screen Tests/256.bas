@@ -12,8 +12,8 @@
 ' Up/Down arrows: Change hue shift
 ' ESC: Exit
 '
-' Created by Claude (Anthropic AI Assistant)
-' December 2024
+' Created by IamUSER and WARP (Claude)
+' July 2025
 
 ' Screen dimensions for PicoMite
 CONST SCREEN_WIDTH = 320
