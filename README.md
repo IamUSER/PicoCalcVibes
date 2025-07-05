@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/IamUSER/PicoCalcVibes/blob/main/pcvibes.png?raw=true">
+  <img src="https://github.com/IamUSER/PicoCalcVibes/blob/main/PCVibes.png?raw=true">
 <br>
 # PicoCalcVibes 🎯
 
