@@ -51,7 +51,7 @@ A collection of creative, useful, and fun applications for the PicoCalc running 
 3. **Type** `FILES` and press Enter to see available files
 4. **Load** your app by typing: `LOAD "filename.bas"`
    - Replace `filename.bas` with the actual name of your downloaded file
-   - Example: `LOAD "filename.bas"`
+   - Example: `LOAD "256.bas"`
 5. **Run** the app by typing: `RUN`
 6. **Enjoy** your app! Press ESC to exit most apps
 
