@@ -9,7 +9,9 @@
 A collection of creative, useful, and fun applications for the PicoCalc running PicoMite BASIC. All apps are designed to showcase the capabilities of the 320x320 pixel display and are completely free to use, modify, and share.
 
 ## Get the latest PicoCalc Firmware Images Here
-- PicoMite [https://github.com/clockworkpi/PicoCalc/tree/master/Bin/PicoMite]
+- Official PicoMite [https://github.com/clockworkpi/PicoCalc/tree/master/Bin/PicoMite]
+- Official uLisp [https://github.com/technoblogy/ulisp-picocalc]
+- Unofficial FUZIX [https://github.com/wez/FUZIX}
 
 ## 🚀 Featured Apps
 
