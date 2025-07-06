@@ -11,12 +11,14 @@ A collection of creative, useful, and fun applications for the PicoCalc running 
 ## 🚀 Featured Apps
 
 ### Screen Testing & Display
-- **`256.bas`** - Comprehensive 256-color screen test with real-time RGB/HEX/HSV values and complementary contrast
-- **`gradient.bas`** - Evolving fullscreen gradient display with mathematical color transitions
+- **`Screen Tests/256.bas`** - Comprehensive 256-color screen test with real-time RGB/HEX/HSV values and complementary contrast
+- **`Screen Tests/gradient.bas`** - Evolving fullscreen gradient display with mathematical color transitions
+
+### Utilities & Tools
+- **`Tools/calc.bas`** - CLI Calculator with basic arithmetic operations (+, -, *, /), optimized for 320x320 display
 
 ### Coming Soon
 - Games & Entertainment
-- Utilities & Tools
 - Art & Visualization
 - Educational Apps
 
@@ -49,7 +51,7 @@ A collection of creative, useful, and fun applications for the PicoCalc running 
 3. **Type** `FILES` and press Enter to see available files
 4. **Load** your app by typing: `LOAD "filename.bas"`
    - Replace `filename.bas` with the actual name of your downloaded file
-   - Example: `LOAD "256.bas"`
+   - Example: `LOAD "filename.bas"`
 5. **Run** the app by typing: `RUN`
 6. **Enjoy** your app! Press ESC to exit most apps
 
